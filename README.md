@@ -1,7 +1,4 @@
 ### Hello there 👋
-I'm a language agnostic full stack developer!
-
-- 🔭 I’m currently working on **Samsaram**, an expense manager built for my household (About to be open-sourced).
-- 🌱 I’m currently learning OOP design concepts.
+I'm a R&D Engineer 3 at VMWare by Broadcom!
 - 📚 I have a love for **Golang** and **Java** on large scale projects, **Python** for quick scripts that get the job done!
-- 💻 I have close to 6 years of work experience, am a Google Summer of Code 2016 participant, currently looking for an opportunity.
+- 💻 I have 6 years of work experience, did an IoT project for Google Summer of Code 2016.
